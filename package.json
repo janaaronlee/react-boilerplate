@@ -1,0 +1,38 @@
+{
+  "name": "react-boilerplate",
+  "version": "0.0.1",
+  "description": "A barebones boilerplate for front-end web development heavily based on Kriasoft's React Starter Kit.",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/janaaronlee/react-boilerplate.git"
+  },
+  "keywords": [
+    "webapp",
+    "boilerplate",
+    "react",
+    "flux",
+    "node",
+    "express",
+    "babel"
+  ],
+  "author": "Jan Aaron Angelo T. Lee",
+  "license": "MIT",
+  "private": true,
+  "engines": {
+    "node": ">=5.0 <6",
+    "npm": ">=3.3 <4"
+  },
+  "dependencies": {
+    "express": "^4.13.4",
+    "react": "^0.14.7",
+    "react-dom": "^0.14.7"
+  },
+  "devDependencies": {
+    "jest-cli": "^0.8.2",
+    "webpack": "^1.12.13"
+  }
+}
