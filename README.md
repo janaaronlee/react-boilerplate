@@ -8,7 +8,7 @@ As such, it is also built on top of Facebook's
 [React](https://facebook.github.io/react/) library and
 [Flux](http://facebook.github.io/flux/) architecture, and uses
 [Node.js](https://nodejs.org/) + [Express](http://expressjs.com/) as the local
-development server. It also leverages mdern web development tools such as
+development server. It also leverages modern web development tools such as
 [Webpack](http://webpack.github.io/), [Babel](http://babeljs.io/) and
 [BrowserSync](http://www.browsersync.io/).
 
